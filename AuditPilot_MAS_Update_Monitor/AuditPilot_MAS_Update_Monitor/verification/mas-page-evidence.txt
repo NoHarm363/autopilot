@@ -1,0 +1,14 @@
+Retrieved from https://www.mas.gov.sg/regulation/notices/notice-626 through the web extraction tool. This excerpt is evidence for source selection, not a live application ingestion result. Local HTTP and browser checks returned maintenance content.
+
+Requirements for banks on anti-money laundering (AML) and countering the financing of terrorism (CFT).
+
+Financial institutions operating in Singapore are required to put in place robust controls to detect and deter the flow of illicit funds through Singapore's financial system.
+Such controls include the need for financial institutions to identify and know their customers (including beneficial owners), to conduct regular account reviews, and to monitor and report any suspicious transaction.
+The AML/CFT requirements for banks can be found in this notice, which include the following:
+* Risk assessment and risk mitigation.
+* Customer due diligence.
+* Reliance on third parties.
+* Correspondent banking and wire transfers.
+* Record keeping.
+* Suspicious transaction reporting.
+* Internal policies, compliance, audit and training.

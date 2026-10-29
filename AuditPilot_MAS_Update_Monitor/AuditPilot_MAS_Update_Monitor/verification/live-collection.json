@@ -1,0 +1,20 @@
+{
+  "documents": [],
+  "issues": [
+    {
+      "url": "https://www.mas.gov.sg/regulation/notices/notice-626",
+      "stage": "fetch",
+      "reason": "MAS blocked or unavailable page"
+    },
+    {
+      "url": "https://www.mas.gov.sg/-/media/amld-amendments---30-june-2025/mas-notice-626.pdf",
+      "stage": "fetch",
+      "reason": "Expected PDF but received an HTML/error body"
+    }
+  ],
+  "attempted_urls": [
+    "https://www.mas.gov.sg/regulation/notices/notice-626",
+    "https://www.mas.gov.sg/-/media/amld-amendments---30-june-2025/mas-notice-626.pdf"
+  ],
+  "coverage_complete": false
+}

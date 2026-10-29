@@ -1,0 +1,31 @@
+{
+  "verified_at": "2026-10-29T03:57:04.294814+00:00",
+  "python": "3.14.7 (main, Sep  1 2026, 14:17:30) [MSC v.1944 64 bit (AMD64)]",
+  "tests_passed": 30,
+  "test_exit_code": 0,
+  "warnings": "13 upstream LangSmith asyncio deprecation warnings on Python 3.14",
+  "editable_install": "0.1.0",
+  "api_smoke": "HTTP 200 on health, events, rollup, runs, schema",
+  "dashboard_health": "HTTP 200 ok",
+  "static_scan_findings": [],
+  "independent_review": "Not performed: directory is not a Git repository",
+  "live_collection": {
+    "valid_documents": 0,
+    "issues": [
+      {
+        "url": "https://www.mas.gov.sg/regulation/notices/notice-626",
+        "stage": "fetch",
+        "reason": "MAS blocked or unavailable page"
+      },
+      {
+        "url": "https://www.mas.gov.sg/-/media/amld-amendments---30-june-2025/mas-notice-626.pdf",
+        "stage": "fetch",
+        "reason": "Expected PDF but received an HTML/error body"
+      }
+    ],
+    "coverage_complete": false
+  },
+  "live_model_assessment": "Not exercised: no configured application model and Ollama loopback unavailable",
+  "docker_build": "Not exercised: docker command unavailable",
+  "scope": "MAS-only research MVP; human review mandatory"
+}
